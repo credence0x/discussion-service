@@ -17,6 +17,6 @@ You may log in with the credentials <br><br>
 
 >Please remember that the usernames are case sensitive
 <br><br>
-> Also all urls are available in a multiline comment in the Posts/urls.py file <
+> Also all urls are available in a multiline comment in the Posts/urls.py file 
 
  
